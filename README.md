@@ -28,9 +28,7 @@ To measure interpolation accuracy, we use the **Mean Absolute Error (MAE)** crit
 
 **MAE Formula:**
 
-\[
-MAE = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i|
-\]
+![image](https://github.com/user-attachments/assets/37497458-4f19-48df-9f10-067e840be950)
 
 Where:
 - `n`: number of data points.
